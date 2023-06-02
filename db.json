@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "abc@test.org",
+      "password": "test"
+    }
+  ],
+  "store": [
+    {
+      "userId": 1,
+      "id": "95291",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458097_1630498400_180172.png",
+      "title": "OG Kush (28G) $10 Cashback",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95293",
+      "image": "",
+      "title": "Girl Scout Cookies (14G) $10 Cashback",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply"
+    },
+    {
+      "userId": 1,
+      "id": "95295",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458097_1630498626_180174.png",
+      "title": "Diamonds and Dust (1G) $10 Cashback",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95297",
+      "image": "",
+      "title": "Nigerian (0.5G) $10 Cashback",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95409",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458100_1643093050_180262.png",
+      "title": "Deca Dose (175mg) | $24",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95410",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458100_1643093385_180263.png",
+      "title": "Hybrid (100mg)",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95411",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458100_1643093549_180264.png",
+      "title": "Indica (70mg)",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95412",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458100_1643096213_180265.png",
+      "title": "Sativa (70mg)",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95413",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458100_1643096661_180266.png",
+      "title": "Ice (180mg)",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "userId": 1,
+      "id": "95414",
+      "image": "https://dgj55nlcupdcf.cloudfront.net/1458100_1643096817_180267.png",
+      "title": "Fire (45mg)",
+      "store_title": "Jane’s Shop",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting Lorem Ipsum is simply dummy text of the printing and typesetting"
+    },
+    {
+      "title": "Hello update",
+      "store_title": "Set Titele",
+      "description": "Goood",
+      "image": "",
+      "userId": 1,
+      "id": "kr4DgRv"
+    }
+  ]
+}

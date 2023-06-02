@@ -1,0 +1,22 @@
+step - 1 : install node_modules 
+Terminal command - (npm i)
+
+step - 2 : Start React App 
+Terminal command - (npm start)
+
+step - 3 : Start and Watch JSON Server in new terminal 
+Terminal command - (json-server --watch db.json --port 5000)
+
+Step - 4 : Now You Can Login With email and Password
+
+email : abc@test.gmail.com
+Password : test
+Note : You Can also add new Register User click - (Don’t have an account? Register)
+
+Step - 5 : You Can Access Your Store All Functionality Like - Show Store 
+                                                            - Add New Store 
+                                                            - Update New Store 
+                                                            - Delete Store 
+
+
+NOte : if You have Any Question or Error Plz Feel free Contact Me.
